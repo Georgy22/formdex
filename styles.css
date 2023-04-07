@@ -207,7 +207,8 @@
       color: #e9e1e1;
       width: 20%;
       padding: 12px;
-      font-size: 18px;
+      font-size: 20px;
+      font-weight: 400;
       margin-left: 40%;
       margin-top: 8%;
       margin-bottom: 0;
@@ -219,7 +220,7 @@
    
     @media screen and (max-width: 1080px) {
       .reach-me1 {
-        font-size: 1rem;
+        font-size: 1.3em;
     
     }
     }
@@ -308,7 +309,7 @@
   }
   
   .dots label:hover {
-    background: #553a68;
+    background: #fff;
   }
   
   #img1:checked ~ .m1 {
